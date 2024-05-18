@@ -53,4 +53,4 @@ John Kenneth Vargas
 
 ## License
 
-This project is licensed under the Ramiscal Jorge License - see the LICENSE.md file for details
+This project is licensed under the John Kenneth Vargas License - see the LICENSE.md file for details
